@@ -1,0 +1,14 @@
+<Filmy>
+    <film id="1" jmeno="Thor:Laska jak hrom" vytvoreni="2022">
+        <zanry>
+    <zanr id="1" jmeno="Comedy">
+    <zanr id="2" jmeno="Akcni">
+        <zanry>
+
+    </film>
+    <film id="2" jmeno="Spider-Man:Bez domova" vytvoreni="2021">
+        <zanry>
+    <zanr id="3" name="Sci-fi">
+        </zanry>
+    </film>
+</Filmy>
